@@ -29,8 +29,8 @@ Crop the image.
 
 ## Program:
 ```python
-Developed By: R ARUNRAJ
-Register Number: 212220230004
+# Developed By: R ARUNRAJ
+# Register Number: 212220230004
 i)Image Translation
 import numpy as np
 import cv2
