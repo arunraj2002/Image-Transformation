@@ -85,25 +85,24 @@ plt.imshow(cropped_img)
 ```
 ## Output:
 ### i)Image Translation
-![O1](https://user-images.githubusercontent.com/75235747/166108596-853bafb0-149d-4c0d-929d-0a8852b1b163.JPG)
-<br>![O2](https://user-images.githubusercontent.com/75235747/166108602-71299ef3-8352-4a9f-a7f8-e46856c968de.JPG)
+<img src="https://user-images.githubusercontent.com/75235747/166108596-853bafb0-149d-4c0d-929d-0a8852b1b163.JPG" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/166108602-71299ef3-8352-4a9f-a7f8-e46856c968de.JPG" width="600">
 
 ### ii) Image Scaling
-![O3](https://user-images.githubusercontent.com/75235747/166108627-b6124f3e-9103-4d22-bfee-bb7139a9128f.JPG)
+<img src="https://user-images.githubusercontent.com/75235747/166108627-b6124f3e-9103-4d22-bfee-bb7139a9128f.JPG" width="600">
 
 ### iii)Image shearing
-![O4](https://user-images.githubusercontent.com/75235747/166108660-cbaee4d8-17e8-4a09-84af-17ba767c98a9.JPG)
+<img src="https://user-images.githubusercontent.com/75235747/166108660-cbaee4d8-17e8-4a09-84af-17ba767c98a9.JPG" width="600">
 
 ### iv)Image Reflection
-![O5](https://user-images.githubusercontent.com/75235747/166108684-1448fc5b-84f0-4958-aee1-0d95fa5168d9.JPG)
-<br>
-![O6](https://user-images.githubusercontent.com/75235747/166108725-0974dc60-03d5-4d55-a5aa-df19630d59c7.JPG)
+<img src="https://user-images.githubusercontent.com/75235747/166108684-1448fc5b-84f0-4958-aee1-0d95fa5168d9.JPG" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/166108725-0974dc60-03d5-4d55-a5aa-df19630d59c7.JPG" width="600">
 
 ### v)Image Rotation
-![O7](https://user-images.githubusercontent.com/75235747/166108806-50318075-9694-499d-9d6f-e529561fda26.JPG)
+<img src="https://user-images.githubusercontent.com/75235747/166108806-50318075-9694-499d-9d6f-e529561fda26.JPG" width="600">
 
 ### vi)Image Cropping
-![O8](https://user-images.githubusercontent.com/75235747/166108819-05f46977-cc04-47de-9ce3-c91dabc9357e.JPG)
+<img src="https://user-images.githubusercontent.com/75235747/166108819-05f46977-cc04-47de-9ce3-c91dabc9357e.JPG" width="500">
 
 ## Result: 
 
